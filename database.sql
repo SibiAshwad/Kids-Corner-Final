@@ -1,9 +1,5 @@
 -- phpMyAdmin SQL Dump
 
--- Servidor: 127.0.0.1
--- Tiempo de generación: 13-04-2017 a las 03:53:59
--- Versión del servidor: 5.6.16
--- Versión de PHP:- 5.5.11
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
